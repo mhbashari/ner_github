@@ -12,3 +12,4 @@
  1. [nersuite](https://github.com/nlplab/nersuite)
  1. [torch-conv-ner](https://github.com/sld/torch-conv-ner)
  1. [CliNER](https://github.com/text-machine-lab/CliNER)
+ 1. [attardi-deepnl](https://github.com/attardi/deepnl)
